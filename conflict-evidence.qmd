@@ -6,17 +6,17 @@ editor: visual
 
 ## Evidence of conflict: 
 ```{r}
-knitr::include_graphics("/Users/enewman/Desktop/Screenshot 2026-11-06 at 3.25.18 PM.png")
+knitr::include_graphics("Screenshot 2026-11-06 at 3.25.18 PM.png")
 ```
 The merge conflict occured because both partners pushed the branches to github without pulling prior to that.
 
 ```{r}
-knitr::include_graphics("/Users/enewman/Desktop/Screenshot 2026-11-06 at 3.26.52 PM.jpeg")
+knitr::include_graphics("Screenshot 2026-11-06 at 3.26.52 PM.jpeg")
 ```
 Github was unable to decide which sentence to keep automatically because both sentences were pushed, and it coudln't just simply pick one. 
 
 ```{r}
-knitr::include_graphics("/Users/enewman/Desktop/Screenshot 2026-11-06 at 3.32.32 PM.png")
+knitr::include_graphics("Screenshot 2026-11-06 at 3.32.32 PM.png")
 ```
 We chose to keep a combined version of the sentences, because when resolving merge conflicts, typically the work of both partners is important and must both be incorporated. 
 
